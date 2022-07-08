@@ -1,0 +1,17 @@
+.galeria__foto--fechada {
+    display: none;
+}
+
+.galeria__foto--aberta {
+    display: block;
+    position: fixed;
+    width: 50%;
+    top: 8%;
+    left: 25%;
+    padding: 1.5rem;
+    background-color: white;
+}
+
+.galeria__foto--aberta img {
+    width: 100%;
+}

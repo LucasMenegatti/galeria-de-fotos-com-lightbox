@@ -1,0 +1,17 @@
+.botao__fechar {
+    position: absolute;
+    top: -25px;
+    right: -25px;
+    border: none;
+    border-radius: 50%;
+    background-color: lightblue;
+    color: var(--cor_branca);
+    font-weight: 700;
+    font-size: 3rem;
+    padding: 0 .8rem;
+    cursor: pointer;
+}
+
+.botao__fechar:hover {
+    background-color: wheat;
+}
